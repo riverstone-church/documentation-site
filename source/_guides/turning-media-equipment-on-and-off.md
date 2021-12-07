@@ -1,9 +1,7 @@
 ---
-extends: "_layouts.main"
-title: "Turning the media equipment on and off"
+extends: _layouts.guide
+title: Turning the media equipment on and off
 ---
-
-# Turning the media equipment on and off
 
 ## ProPresenter and TVs
 
@@ -14,7 +12,7 @@ title: "Turning the media equipment on and off"
 3. (Optional) Click on any slide just to have something displayed when you turn the TVs on.
 4. Use the Samsung remote located in the media booth to turn on all three TVs. You will need to walk up front to turn on the tv facing the stage.
 5. You can now clear out the slide you displayed in step 3 by clicking the “X” located next to the output preview.
-6. (Optional) You can click “Clear to Logo” to show the RiverStone welcome slide. ￼
+6. (Optional) You can click “Clear to Logo” to show the RiverStone welcome slide.
 
 ### Shutdown
 

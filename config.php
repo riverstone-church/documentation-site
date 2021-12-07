@@ -7,7 +7,7 @@ return [
     'description' => 'Website description.',
     'collections' => [
         'guides' => [
-            'path' => 'guides/{filename}'
+            'path' => 'guides/{filename}',
         ]
     ],
 ];
