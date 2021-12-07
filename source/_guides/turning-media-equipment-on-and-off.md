@@ -1,4 +1,5 @@
 ---
+extends: "_layouts.main"
 title: "Turning the media equipment on and off"
 ---
 

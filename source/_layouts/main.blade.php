@@ -17,6 +17,7 @@
     </header>
     <main class="container">
         @yield('body')
+        @yield('content')
     </main>
 </body>
 
