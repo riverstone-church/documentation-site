@@ -31931,6 +31931,11 @@ h5 {
   padding-right: 1.25rem;
 }
 
+ol {
+  list-style: decimal;
+  padding-left: 1.2rem;
+}
+
 @media (min-width: 640px){
   .sm\:container{
     width: 100%;
