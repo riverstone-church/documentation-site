@@ -5,7 +5,7 @@
 <p class="text-center">{{ date('F j, Y', $page->date) }}</p>
 @endsection
 @section('after')
-<div class="container grid grid-cols-2 mt-5">
+<div class="container grid md:grid-cols-2 mt-5">
     @if($page->getPrevious())
     <a class="text-right" href="{{ optional($page->getPrevious())->getUrl() }}">
         <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-6 w-6 -mt-1" fill="none" viewBox="0 0 24 24"
