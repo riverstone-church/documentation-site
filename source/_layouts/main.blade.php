@@ -18,6 +18,7 @@
     <main class="container">
         @yield('body')
         @yield('content')
+        @yield('after')
     </main>
 </body>
 
