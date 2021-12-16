@@ -6,11 +6,19 @@ title: Turning the media equipment on
 ## ProPresenter and TVs
 
 1. Open up the ProPresenter computer.
+   ![](/assets/images/turning-the-media-equipment-on-propresenter-macbook.jpg "ProPresenter computer")
 2. If ProPresenter is not already open, click the ProPresenter icon in the dock to open it.
+   ![](/assets/images/turning-the-media-equipment-on-propresenter-dock-icon.jpg "ProPresenter dock icon")
 3. (Optional) Click on any slide just to have something displayed when you turn the TVs on.
+   ![](/assets/images/turning-the-media-equipment-on-queue-slide-01.jpg "Queue slide in ProPresenter")
+   ![](/assets/images/turning-the-media-equipment-on-queue-slide-02.jpg "Verify the slide is showing on the ProPresenter output")
 4. Use the Samsung remote located in the media booth to turn on all three TVs. You will need to walk up front to turn on the tv facing the stage.
+   ![](/assets/images/turning-the-media-equipment-on-samsung-remote.jpg "Samsung remote")
+   ![](/assets/images/turning-the-media-equipment-on-power-on-tvs.jpg "Power on TVs")
 5. You can now clear out the slide you displayed in step 3 by clicking the “X” located next to the output preview.
+   ![](/assets/images/turning-the-media-equipment-on-clear-all.jpg "Clear all on ProPresenter")
 6. (Optional) You can click “Clear to Logo” to show the RiverStone welcome slide.
+   ![](/assets/images/turning-the-media-equipment-on-clear-to-logo.jpeg "Clear to logo")
 
 ## Livestream
 
