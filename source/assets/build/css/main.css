@@ -31942,6 +31942,10 @@ img {
   border-radius: 0.5rem;
 }
 
+li:not(:last-child) {
+  margin-bottom: 1.75rem;
+}
+
 @media (min-width: 640px){
   .sm\:container{
     width: 100%;
