@@ -52,6 +52,10 @@ h5 {
     @apply max-w-5xl mx-auto px-5;
 }
 
+.container .content {
+    @apply max-w-xl mx-auto;
+}
+
 ol {
     list-style: decimal;
     padding-left: 1.2rem;
