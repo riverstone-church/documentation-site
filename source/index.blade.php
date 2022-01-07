@@ -4,9 +4,9 @@
 <section class="py-8">
     <h1>Guides and Documentation</h1>
     <p>Here you will find information on the various technologies throughout RiverStone Church.</p>
-    <ul class="grid gap-3 pt-3">
+    <ul class="pt-3">
         @foreach ($guides as $guide)
-        <li class="w-full h-full">
+        <li class="max-w-xl h-full">
             <a href="{{ $guide->getPath() }}">
                 <h4>
                     <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-6 w-6 -mt-1" fill="none"
