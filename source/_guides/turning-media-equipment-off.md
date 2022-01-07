@@ -1,6 +1,7 @@
 ---
 extends: _layouts.guide
 title: Turning the media equipment off
+date: 2021-12-14
 ---
 
 ## ProPresenter and TVs

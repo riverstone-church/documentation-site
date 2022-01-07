@@ -1,6 +1,7 @@
 ---
 extends: _layouts.guide
 title: Switching the computer between Livestream and Production room
+date: 2022-01-07
 ---
 
 The MacBook Pro we use for live-streaming is also used when recording in the production room. Therefor, the computer has to be reconfigured when switching back and forth from the Production room to the Livestream setup and vice versa. Below are the steps needed to take to make sure the computer is properly setup.
