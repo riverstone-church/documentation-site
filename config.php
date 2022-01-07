@@ -3,8 +3,8 @@
 return [
     'production' => false,
     'baseUrl' => '',
-    'title' => 'Jigsaw',
-    'description' => 'Website description.',
+    'title' => 'Guides and Documentation',
+    'description' => 'Information on the various technologies throughout RiverStone Church.',
     'collections' => [
         'guides' => [
             'path' => 'guides/{filename}',
