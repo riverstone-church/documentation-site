@@ -6,7 +6,7 @@
         max-width: 300px;
     }
 </style>
-<h1 class="text-center max-w-3xl mx-auto">{{ $page->title }}</h1>
+<h1 class="text-center max-w-xl mx-auto">{{ $page->title }}</h1>
 <p class="text-center">{{ date('F j, Y', $page->date) }}</p>
 @endsection
 @section('after')
