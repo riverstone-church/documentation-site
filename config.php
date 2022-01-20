@@ -8,6 +8,9 @@ return [
     'collections' => [
         'guides' => [
             'path' => 'guides/{filename}',
+        ],
+        'docs' => [
+            'path' => 'docs/{filename}',
         ]
     ],
 ];
