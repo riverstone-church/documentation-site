@@ -2,6 +2,7 @@
 extends: _layouts.doc
 title: Sermon Podcast
 date: 2022-01-20
+image: /assets/images/sermon-podcast-artwork.png
 ---
 
 The RiverStone Church sermon podcast is a podcast that is updated every week with the audio from the Sunday messages/sermons. The audio and [RSS feed] are hosted by [Squarespace](https://squarespace.com) on [riverstonechurch.net](https://riverstonechurch.net).

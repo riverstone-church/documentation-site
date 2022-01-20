@@ -5,7 +5,16 @@
     img {
         max-width: 300px;
     }
+
+    .featuredImage {
+        max-width: 150px;
+    }
 </style>
+
+@if($page->image)
+<img class="mx-auto mb-5 featuredImage" src="{{ $page->image }}">
+@endif
+
 <h1 class="text-center max-w-xl mx-auto">{{ $page->title }}</h1>
 <p class="text-center">{{ date('F j, Y', $page->date) }}</p>
 @endsection
