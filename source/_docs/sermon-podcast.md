@@ -9,7 +9,7 @@ The RiverStone Church sermon podcast is a podcast that is updated every week wit
 
 ## Podcast Directories
 
-The podcast is published on several directories. Below is a list of the current directories it is published on. (Note: Most podcast apps pull from the Apple Podcast directory, so not every app the podcast can be listed too on is listed below.)
+The podcast is published on several directories. Below is a list of the current directories it is published on. (Note: Most podcast apps pull from the Apple Podcast directory, so not every app the podcast can be listened too on is listed below.)
 
 -   [Apple Podcasts](https://podcasts.apple.com/us/podcast/riverstone-church-sermons/id1551482178)
 -   Spotify
