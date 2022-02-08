@@ -13,6 +13,11 @@ module.exports = {
                 "4xl": "2.488rem",
                 "5xl": "3.6rem",
             },
+            colors: {
+                blue: {
+                    DEFAULT: "#004FAD",
+                },
+            },
         },
     },
     variants: {
