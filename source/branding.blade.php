@@ -6,6 +6,13 @@
     them.</p>
 
 <section>
+    <h2>Colors</h2>
+    <div class="my-5 mb-10 grid md:grid-cols-3 gap-5">
+        <x-branding.color hex="#004FAD" code="blue" textColor="white" name="Primary" />
+    </div>
+</section>
+
+<section>
     <h2>Logos</h2>
     <div class="my-5 mb-10 grid md:grid-cols-3 gap-5">
         <x-branding.asset src="/assets/images/riverstone-logo.png" name="Logo" />
