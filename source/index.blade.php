@@ -1,7 +1,7 @@
 @extends('_layouts.main')
 
 @section('body')
-<section class="py-10 px-10 mt-8 mb-3 text-white"
+<section class="py-10 px-10 mt-8 mb-3 text-white rounded-lg shadow-xl"
     style="background-image: linear-gradient(90deg, rgba(0,51,173,0.75) 0%, rgba(0,79,173,0.6) 99%), url('/assets/images/hero-bg.jpg'); background-position: center; background-repeat: no-repeat; background-size: cover;">
     <h1>Guides and Documentation</h1>
     <p>Here you will find information on the various technologies throughout RiverStone Church.</p>
