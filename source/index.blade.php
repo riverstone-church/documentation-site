@@ -12,7 +12,7 @@
 <section class="grid md:grid-cols-2 gap-5 pb-8 my-10">
     <div>
         <h2>Guides</h2>
-        <ul class="pt-3">
+        <ul>
             @foreach ($guides as $guide)
             <li class="max-w-xl h-full ml-8">
                 <a href="{{ $guide->getPath() }}">
@@ -31,7 +31,7 @@
     </div>
     <div>
         <h2>Documentation</h2>
-        <ul class="pt-3">
+        <ul>
             @foreach ($docs as $doc)
             <li class="max-w-xl h-full">
                 <a href="{{ $doc->getPath() }}">
