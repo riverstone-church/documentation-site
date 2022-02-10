@@ -6,6 +6,9 @@
     <h1>Guides and Documentation</h1>
     <p>Here you will find information on the various technologies throughout RiverStone Church.</p>
 </section>
+<section class="my-10">
+    <x-anchor href="/branding">Logos & Branding</x-anchor>
+</section>
 <section class="pb-8 mt-10">
     <h2>Guides</h2>
     <ul class="pt-3">
