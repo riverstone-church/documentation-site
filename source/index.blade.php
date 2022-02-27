@@ -48,5 +48,24 @@
             @endforeach
         </ul>
     </div>
+    <div>
+        <h2>Service Bulletins</h2>
+        <ul>
+            @foreach ($serviceBulletins as $bulletin)
+            <li class="max-w-xl h-full">
+                <a href="{{ $bulletin->getPath() }}">
+                    <h4>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-6 w-6 -mt-1" fill="none"
+                            viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                        <span class="font-bold">{{ date('Y-m-d', $bulletin->date) }}</span>: {{ $bulletin->title }}
+                    </h4>
+                </a>
+            </li>
+            @endforeach
+        </ul>
+    </div>
 </section>
 @endsection
