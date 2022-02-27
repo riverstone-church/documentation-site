@@ -17,6 +17,7 @@
 
 <h1 class="text-center max-w-xl mx-auto">{{ $page->title }}</h1>
 <p class="text-center">{{ date('F j, Y', $page->date) }}</p>
+<p class="-mt-3 text-center">{{ $page->author ?? '' }}</p>
 @endsection
 @section('after')
 <div class="max-w-xl mx-auto grid md:grid-cols-2 mt-10 mb-7 gap-3">
