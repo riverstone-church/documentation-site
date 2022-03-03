@@ -14,7 +14,8 @@ return [
         ],
         'serviceBulletins' => [
             'path' => 'service-bulletins/{filename}',
-            'extends' => '_layouts.doc'
+            'extends' => '_layouts.doc',
+            'sort' => '-date'
         ]
     ],
 ];
