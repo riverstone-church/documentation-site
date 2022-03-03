@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => '',
+    'baseUrl' => 'https://docs.riverstonechurch.net',
     'title' => 'Guides and Documentation',
     'description' => 'Information on the various technologies throughout RiverStone Church.',
     'collections' => [

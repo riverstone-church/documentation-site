@@ -10,17 +10,18 @@
         max-width: 150px;
     }
 </style>
-
-@if($page->image)
-<img class="mx-auto mb-5 featuredImage" src="{{ $page->image }}">
-@endif
-
-<h1 class="text-center max-w-xl mx-auto">{{ $page->title }}</h1>
-<p class="text-center">{{ date('F j, Y', $page->date) }}</p>
-<p class="-mt-3 text-center">{{ $page->author ?? '' }}</p>
+<div class="max-w-xl mx-auto text-center print:mt-10 print:text-left">
+    @if($page->image)
+    <img class="mx-auto mb-5 featuredImage" src="{{ $page->image }}">
+    @endif
+    <h1 class="mx-auto print:ml-0">{{ $page->title }}</h1>
+    <p>{{ date('F j, Y', $page->date) }}</p>
+    <p class="-mt-3">{{ $page->author ?? '' }}</p>
+    <a class="hidden print:inline-block" href="{{ $page->getUrl() }}">{{ $page->getUrl() }}</a>
+</div>
 @endsection
 @section('after')
-<div class="max-w-xl mx-auto grid md:grid-cols-2 mt-10 mb-7 gap-3">
+<div class="container mx-auto grid md:grid-cols-2 mt-10 mb-7 gap-3 print:hidden">
     @if($page->getPrevious())
     <a class="flex items-center" href="{{ optional($page->getPrevious())->getUrl() }}">
         <div class="mr-3">

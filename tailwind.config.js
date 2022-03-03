@@ -18,6 +18,9 @@ module.exports = {
                     DEFAULT: "#004FAD",
                 },
             },
+            screens: {
+                'print': {'raw': 'print'},
+            },
         },
     },
     variants: {
