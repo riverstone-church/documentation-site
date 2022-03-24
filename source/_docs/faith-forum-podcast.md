@@ -14,6 +14,7 @@ The audio and [RSS feed](https://www.riverstonechurch.net/podcast/faith-forum?fo
 The podcast is published on several directories. Below is a list of the current directories it is published on. (Note: Most podcast apps pull from the Apple Podcast directory, so not every app the podcast can be listened too on is listed below.)
 
 -   [Apple Podcasts](https://podcasts.apple.com/us/podcast/faith-forum/id1613941071)
+-   Spotify
 -   Stitcher
 -   Podchaser
 -   iHeartRadio
