@@ -4,7 +4,7 @@ title: Turning the media equipment on
 date: 2021-12-14
 ---
 
-## ProPresenter and TVs
+## ProPresenter and TVs {#propresenter-and-tvs}
 
 1. Open up the ProPresenter computer.
    ![](/assets/images/turning-the-media-equipment-on-propresenter-macbook.jpg "ProPresenter computer")
@@ -21,7 +21,7 @@ date: 2021-12-14
 6. (Optional) You can click “Clear to Logo” to show the RiverStone welcome slide.
    ![](/assets/images/turning-the-media-equipment-on-clear-to-logo.jpeg "Clear to logo")
 
-## Livestream
+## Livestream {#livestream}
 
 1. Open the livestream computer.
 2. Turn on the two monitors located to either side of the livestream computer by pressing the power buttons located at the bottom right of each monitor. The blue lights next to the power button should illuminate after the power button is pressed.

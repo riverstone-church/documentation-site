@@ -4,7 +4,7 @@ title: Turning the media equipment off
 date: 2021-12-14
 ---
 
-## ProPresenter and TVs
+## ProPresenter and TVs {#propresenter-and-tvs}
 
 1. (Optional) Quit ProPresenter by clicking “ProProsenter” at the top left of the screen and the clicking quit.
    ![](/assets/images/turning-the-media-equipment-off-propresenter-confirm-dialog.jpg "ProPresenter quit dialog box")

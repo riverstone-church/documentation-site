@@ -6,7 +6,7 @@ date: 2022-01-07
 
 The MacBook Pro we use for live-streaming is also used when recording in the production room. Therefore, the computer has to be reconfigured when switching back and forth from the Production room to the Livestream setup and vice versa. Below are the steps needed to take to make sure the computer is properly setup.
 
-## Switching to Livestream mode
+## Switching to Livestream mode {#switching-to-livestream-mode}
 
 Before live-streaming on Sunday morning, take the following steps to confirm that the computer is setup to stream.
 
@@ -18,7 +18,7 @@ Before live-streaming on Sunday morning, take the following steps to confirm tha
 
 Now follow the normal pre-service livestream checklist.
 
-## Switching to Production Room mode
+## Switching to Production Room mode {#switching-to-production-room-mode}
 
 Before recording in the production room, you need to take the following steps to configure the MacBook Pro to be used with the camera.
 
