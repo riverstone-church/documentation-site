@@ -1,6 +1,6 @@
 ---
 extends: _layouts.guide
-title: Switching the computer between Livestream and Production room
+title: Switching the Computer between Livestream and Production Room
 date: 2022-01-07
 ---
 

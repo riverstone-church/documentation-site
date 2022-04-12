@@ -1,6 +1,6 @@
 ---
 extends: _layouts.guide
-title: Procedure for running the Livestream
+title: Procedure for Running the Livestream
 date: 2022-01-07
 ---
 

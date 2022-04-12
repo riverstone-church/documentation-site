@@ -1,6 +1,6 @@
 ---
 extends: _layouts.guide
-title: Turning the media equipment off
+title: Turning the Media Equipment Off
 date: 2021-12-14
 ---
 
