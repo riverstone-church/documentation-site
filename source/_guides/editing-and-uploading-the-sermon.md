@@ -45,6 +45,7 @@ Jeremiah 12:1
 Export both a video and audio only version of the final edit. Refer to *Naming and Organization Conventions* for the naming convention.
 
 ## Create a Custom Thumbnail
+You will need to grab a frame from the video to use to create a custom thumbnail. We have an Affinity Photo/Photoshop template that can just be customized.
 
 ## Upload to Vimeo
 After exporting the video, the next step is to upload it to Vimeo under the `Sermons` folder. Refer to *Naming and Organization Conventions* for what to title the video.
