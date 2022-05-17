@@ -19,7 +19,7 @@ module.exports = {
                 },
             },
             screens: {
-                'print': {'raw': 'print'},
+                'print': { 'raw': 'print' },
             },
         },
     },
