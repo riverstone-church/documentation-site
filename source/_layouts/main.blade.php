@@ -17,7 +17,7 @@
     </header>
     <main class="container">
         @yield('body')
-        <div class="content">
+        <div class="prose content">
             @yield('content')
         </div>
         @yield('after')

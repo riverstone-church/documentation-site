@@ -34,13 +34,11 @@ Jeremiah 12:1
 ## Editing
 * Trim down the video to just the sermon.
 * Add the intro video; overlapping the audio to make a smooth transition to the sermon.
-
 ![](/assets/images/editing-and-uploading-the-sermon/final-cut-pro-timeline-intro.png)
 
 * Add a lower third at the beginning and then every 20mins throughout the sermon.
 * Add the prayer lower third every 10mins throughout the sermon and then sometimes one at the end.
 * Add the outro; overlapping the audio and having it fade out.
-
 ![](/assets/images/editing-and-uploading-the-sermon/final-cut-pro-timeline-outro.png)
 
 ## Export
@@ -55,7 +53,6 @@ Next:
 - Update the video description
 - Upload the custom thumbnail
 - Set the video language to `English (United States)`
-
 ![](/assets/images/editing-and-uploading-the-sermon/vimeo-setting-language.gif)
 
 - Publish the video to YouTube and Facebook, from Vimeo.
@@ -80,13 +77,10 @@ The podcast is hosted through Squarespace. To upload the podcast, you will need 
 
 - Add a blog post to the `Sermon Podcast` page; following the naming convention for the title.
 - Add a Squarespace audio block and upload the audio only version you exported earlier.
-
 ![](/assets/images/editing-and-uploading-the-sermon/squarespace-audio-block.png)
-
 ![](/assets/images/editing-and-uploading-the-sermon/squarespace-uploading-audio-file.png)
 
-	- Set the `Title` to the title and the `Author/Artist`  to the preacher’s name
-
+- Set the `Title` to the title and the `Author/Artist`  to the preacher’s name
 ![](/assets/images/editing-and-uploading-the-sermon/squarespace-audio-file-uploaded.png)
 
 - Click on the `Podcasting` tab.
