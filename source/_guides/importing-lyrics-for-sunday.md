@@ -4,6 +4,8 @@ title: Importing Lyrics for Sunday
 date: 2022-05-19
 ---
 
+Every week, the lyrics for Sunday need to be entered into the ProPresenter computer.
+
 ## Get the list of songs
 If you have access to the order of service on planning center, you can get access to the list of songs that are going to be sung on Sunday. If not, you will need to contact the worship leader and request the order of service.
 
