@@ -1273,7 +1273,6 @@ li:not(:last-child){
 
 .content img{
   max-height: 24rem;
-  max-width: 28rem;
 }
 
 .content .featuredImage {
