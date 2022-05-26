@@ -1,16 +1,6 @@
 @extends('_layouts.main')
 
 @section('body')
-    <style>
-        img {
-            max-width: 300px;
-        }
-
-        .featuredImage {
-            max-width: 150px;
-        }
-
-    </style>
     <div class="max-w-xl mx-auto print:mt-10 print:mb-5 print:text-left">
         @if ($page->image)
             <img class="mx-auto mb-5 featuredImage" src="{{ $page->image }}">
