@@ -11,7 +11,7 @@ All files relating to the editing of the sermon archive should be contained in a
 
 The Adobe Premiere Pro project or the Apple Final Cut Pro library should be named the same as the folder, as well as the thumbnail file.
 
-All video from the service should be contained in a folder names `Footage` inside the main folder.
+All video from the service should be contained in a folder named `Footage` inside the main folder.
 
 Here is an example of what the folder might look like.
 ![](/assets/images/editing-and-uploading-the-sermon/folder-structure.png)
