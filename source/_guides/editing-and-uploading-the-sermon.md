@@ -58,12 +58,6 @@ Next:
 
 - Publish the video to YouTube and Facebook, from Vimeo.
 
-## Facebook
-Facebook is very confusing, and sometimes it can be hard to find how to edit a video's information. The best place to go is Facebook's [Creator Studio](https://business.facebook.com/creatorstudio/).
-
-- Upload custom thumbnail
-- Add to playlists
-
 ## YouTube
 - Upload custom thumbnail.
 - Set video, title, and description language to  `English (United States)`
