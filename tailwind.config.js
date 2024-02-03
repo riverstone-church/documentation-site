@@ -18,7 +18,7 @@ module.exports = {
             },
             colors: {
                 blue: {
-                    DEFAULT: "#004FAD",
+                    DEFAULT: "#033146",
                 },
             },
             screens: {
