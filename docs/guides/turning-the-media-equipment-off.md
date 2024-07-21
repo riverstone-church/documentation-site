@@ -1,6 +1,6 @@
 # Turning the Media Equipment Off
 
-**This guide is not yet complete and may be out of date**.
+**This guide is not yet complete and may be out of date!**
 
 ## ProPresenter and TVs
 

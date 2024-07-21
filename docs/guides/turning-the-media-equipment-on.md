@@ -1,6 +1,6 @@
 # Turning the Media Equipment On
 
-**This guide may not be accurate anymore.**
+**This guide may not be accurate anymore!**
 
 ## ProPresenter and TVs
 
