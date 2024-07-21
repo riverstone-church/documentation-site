@@ -1,0 +1,4 @@
+site_name: RiverStone Docs
+theme: readthedocs
+markdown_extensions:
+  - attr_list
